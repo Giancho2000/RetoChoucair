@@ -1,0 +1,54 @@
+package co.com.choucair.certification.retopractico.userinterface;
+
+import net.serenitybdd.core.pages.PageObject;
+import net.serenitybdd.screenplay.targets.Target;
+import org.openqa.selenium.By;
+
+public class SuscribeUtestPage extends PageObject{
+    public static final Target INPUT_NAME = Target.the("Put the name into the input")
+            .located(By.id("firstName"));
+
+    public static final Target INPUT_LAST_NAME = Target.the("Put the Lastname into the input")
+            .located(By.id("lastName"));
+
+    public static final Target INPUT_EMAIL = Target.the("Put the Email into the input")
+            .located(By.id("email"));
+
+    public static final Target INPUT_MONTH = Target.the("Click on the button Join Today")
+            .located(By.id("birthMonth"));
+
+    public static final Target INPUT_DAY = Target.the("Click on the button Join Today")
+            .located(By.id("birthDay"));
+
+    public static final Target INPUT_YEAR = Target.the("Click on the button Join Today")
+            .located(By.id("birthYear"));
+
+    /*public static final Target INPUT_LENGUAJES = Target.the("Click on the button Join Today")
+            .located(By.xpath("//input[@class='ui-select-search']"));*/
+
+    public static final Target NEXT_LOCATION = Target.the("Click on the button Join Today")
+            .located(By.xpath("//a[@class='btn btn-blue']"));
+
+    public static final Target CITY = Target.the("Click on the button Join Today")
+            .located(By.id("city"));
+
+    public static final Target CITY_TWO = Target.the("Click on the button Join Today")
+            .located(By.xpath("//input[@ng-model='registrationData.city']"));
+
+
+
+    public static final Target STATE = Target.the("Click on the button Join Today")
+            .located(By.xpath("//span[@class='ui-select-match-text']"));
+
+
+    public static final Target POSTAL_CODE = Target.the("Click on the button Join Today")
+            .located(By.id("zip"));
+
+
+    public static final Target COUNTRY = Target.the("Click on the button Join Today")
+            .located(By.xpath("//div[@class='ui-select-match']"));
+
+    public static final Target NEXT_DEVICES = Target.the("Click on the button Join Today")
+            .located(By.xpath("//a[@class='btn btn-blue']"));
+
+}
