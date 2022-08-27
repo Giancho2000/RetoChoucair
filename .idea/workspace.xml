@@ -5,27 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bbbf0ab4-094f-43af-b8e0-d1d1193e4d3f" name="Changes" comment="First steps project">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serenity.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/retopractico/task/Join.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/retopractico/task/OpenPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/retopractico/task/Suscribe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/retopractico/userinterface/JoinUtestPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/retopractico/userinterface/SuscribeUtestPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/retopractico/userinterface/UtestPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/retopractico/runners/RunnerTags.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/retopractico/stepdefinitions/UtestStepDefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/utest.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/retopractico/userinterface/SuscribeUtestPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/retopractico/userinterface/SuscribeUtestPage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
